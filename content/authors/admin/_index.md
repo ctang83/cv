@@ -11,29 +11,32 @@ role: Research Fellow
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Macquarie University
-  url: https://www.stanford.edu/
+  url: https://www.mq.edu.au/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include health economics, health workforce and health policy.
+bio: My research interests include health economics, health workforce and health system.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Health workforce
+- Health economics
+- Health system
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Economics
+    institution: University of New South Wales
+    year: 2015
+  - course: MA in Social Medicine & Health Administration
+    institution: Fujian Medical University
+    year: 2011
+  - course: BSc in Business Administration 
+    institution: Southwest University
+    year: 2006
+  - course: BSc in Food Science and Engineering 
+    institution: Southwest University
+    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,13 +48,13 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/frangel_tang
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=sxHswrEAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ctang83
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
@@ -70,8 +73,11 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chengxiang Tang is a research fellow of health economics and systems at the Macquarie University. 
+His research interests include health economics, health workforce and health system. 
+He have broad research experience and skills in health reform, medical education, discrete choice experiment, network science and big data analysis.
+He also serves as an Associate Editor of *BMC Medical Education*.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+This is a information hub for his research, publication and connections.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
