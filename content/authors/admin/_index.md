@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Chengxiang Tang 唐程翔
+title: Chengxiang Tang  
+唐程翔
 
 # Is this the primary user of the site?
 superuser: true
@@ -80,4 +81,4 @@ He also serves as an Associate Editor of *BMC Medical Education*. This is a info
 
 程翔喜欢教育和研究, 对医学教育和超常儿童教育有兴趣, 对卫生系统和卫生经济研究有兴趣.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
