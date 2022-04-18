@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chengxiang Tang
+title: Chengxiang Tang 唐程翔
 
 # Is this the primary user of the site?
 superuser: true
@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: tang.chengxiang@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/frangel_tang
@@ -57,7 +57,7 @@ social:
   link: https://github.com/ctang83
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.xiaohongshu.com/user/profile/5ee7517e000000000100448f
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -73,11 +73,11 @@ email: ""
 highlight_name: true
 ---
 
-Chengxiang Tang is a research fellow of health economics and systems at the Macquarie University. 
+Chengxiang is a research fellow of health economics and systems at the Macquarie University. 
 His research interests include health economics, health workforce and health system. 
 He have broad research experience and skills in health reform, medical education, discrete choice experiment, network science and big data analysis.
-He also serves as an Associate Editor of *BMC Medical Education*.
+He also serves as an Associate Editor of *BMC Medical Education*. This is a information hub for his research, publication and connections.
 
-This is a information hub for his research, publication and connections.
+程翔喜欢教育和研究, 对医学教育和超常儿童教育有兴趣, 对卫生系统和卫生经济研究有兴趣.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
