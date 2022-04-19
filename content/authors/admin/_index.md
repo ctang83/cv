@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: tang.chengxiang@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/frangel_tang
@@ -73,7 +73,7 @@ email: ""
 highlight_name: true
 ---
 
-Chengxiang Tang is a research fellow of health economics and systems at the Macquarie University. 
+Chengxiang is a research fellow of health economics and systems at the Macquarie University. 
 His research interests include health economics, health workforce and health system. 
 He have broad research experience and skills in health reform, medical education, discrete choice experiment, network science and big data analysis.
 He also serves as an Associate Editor of *BMC Medical Education*.
