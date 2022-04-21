@@ -23,30 +23,20 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://ctang83.github.io/NB_tang/
-  date_end: ""
-  date_start: "2021-01-25"
+- date_start: "2021-01-25"
   description: ""
-  organization: Bookdown
+  organization: Github Repo
   organization_url: https://ctang83.github.io/NB_tang/
-  title: My Notebook
+  title: Chengxiang's Notebook - recording my learning stuff
   url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  
+- date_start: "2022-01-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  organization: Github Repo
+  organization_url: https://ctang83.github.io/figjonny/notes-2022.html
+  title: 悉悉尼尼爱大海 - Jonny and Amy's favorites
+  url: 
+
 
 design:
   columns: '2' 
