@@ -1,7 +1,6 @@
 ---
 # Display name
-title: Chengxiang Tang  
-唐程翔
+title: Chengxiang Tang  唐程翔
 
 # Is this the primary user of the site?
 superuser: true
@@ -46,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: tang.chengxiang@gmail.com
+  link: 'tang.chengxiang@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/frangel_tang
