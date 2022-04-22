@@ -1,9 +1,9 @@
 ---
-title: 慢慢把我所有网络信息汇总到一个页面
+title: 慢慢把我所有网络信息汇总到一个页面Info Hub
 subtitle: 
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: This website works as an information hub that hosts all links to my social media (twitter, email, xiaohongshu), research profile (GoogleScholar, ResearchGate), eNotebook (Github repo), and other types of information dissemination.
 
 # Link this post with a project
 projects: []

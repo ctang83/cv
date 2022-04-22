@@ -73,10 +73,7 @@ email: ""
 highlight_name: true
 ---
 
-Chengxiang is a research fellow of health economics and systems at the Macquarie University. 
-His research interests include health economics, health workforce and health system. 
-He have broad research experience and skills in health reform, medical education, discrete choice experiment, network science and big data analysis.
-He also serves as an Associate Editor of *BMC Medical Education*. This is a information hub for his research, publication and connections.
+Chengxiang is a research fellow in health economics and systems at Macquarie University. His research interests include health workforce, health system, and health economics. He has broad research experience and skills in health reform, medical education, discrete choice experiments, network science, and big data analysis. He also serves as an Associate Editor for *BMC Medical Education*. This is an information hub for his research, publications, projects, and connections.
 
 程翔喜欢教育和研究, 对医学教育和超常儿童教育有兴趣, 对卫生系统和卫生经济研究有兴趣.
 
