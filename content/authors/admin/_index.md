@@ -45,17 +45,20 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'tang.chengxiang@gmail.com'
+  link: '/#contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/frangel_tang
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=sxHswrEAAAAJ&hl=en
+- icon: researchgate  
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Chengxiang_Tang
 - icon: github
   icon_pack: fab
   link: https://github.com/ctang83
-- icon: linkedin
+- icon: instagram
   icon_pack: fab
   link: https://www.xiaohongshu.com/user/profile/5ee7517e000000000100448f
 
