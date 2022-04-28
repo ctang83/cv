@@ -1,6 +1,5 @@
 ---
-# An instance of the Accomplishments widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
+# An instance of the Accomplishments widget. Doc: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
 
 # This file represents a page section.
@@ -13,11 +12,9 @@ weight: 50
 title: 'eNotebook'
 subtitle:
 
-# Date format
-#   Refer to https://wowchemy.com/docs/customization/#date-format
+# Date format. Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-# Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
@@ -26,16 +23,30 @@ item:
 - date_start: "2021-01-25"
   description: ""
   organization: Github Repo
-  organization_url: https://ctang83.github.io/NB_tang/
+  organization_url: 
   title: Chengxiang's Notebook - recording my learning stuff
-  url: ""
+  url: https://ctang83.github.io/NB_tang/
   
 - date_start: "2022-01-01"
   description: ""
   organization: Github Repo
-  organization_url: https://ctang83.github.io/figjonny/notes-2022.html
+  organization_url: 
   title: 悉悉尼尼爱大海 - Jonny and Amy's favorites
-  url: 
+  url: https://ctang83.github.io/figjonny/notes-2022.html
+
+- date_start: "2022-04-01"
+  description: ""
+  organization: Bookdown Repo
+  organization_url: 
+  title: EPS_Johnson & Johnson Medical (access required)
+  url: https://bookdown.org/tang_chengxiang/eps_jjm/
+
+- date_start: "2022-04-27"
+  description: ""
+  organization: Bookdown Repo
+  organization_url: 
+  title: Physician Supply with Prof. Hsieh (access required)
+  url: https://bookdown.org/tang_chengxiang/nb_he/
 
 
 design:
