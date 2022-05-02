@@ -32,22 +32,22 @@ experience:
     description: |2-
         Responsibilities include: Analysing, Modelling, Deploying
         
-  - title: Associate Professor
-    company: Guangzhou University
+  - title: Research fellow
+    company: Peking University
     company_url: ''
     company_logo: org-x
-    location: Guangzhou
-    date_start: '2017-05-01'
-    date_end: '2021-12-31'
-    description: Teaching and research
+    location: Beijing
+    date_start: '2018-02-01'
+    date_end: ''
+    description: Research and projects implementation
 
   - title: Associate Professor
-    company: Southwestern University of Finance and Economics
+    company: Guangzhou University/Southwestern University of Finance and Economics
     company_url: ''
     company_logo: org-x
-    location: Chengdu
+    location: Guangzhou/Chengdu
     date_start: '2016-02-01'
-    date_end: '2017-04-30'
+    date_end: '2021-12-31'
     description: Teaching and research
 
 design:
