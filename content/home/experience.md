@@ -42,10 +42,10 @@ experience:
     description: Research and projects implementation
 
   - title: Associate Professor
-    company: Guangzhou University/Southwestern University of Finance and Economics
+    company: Southwestern University of Finance and Economics/Guangzhou University
     company_url: ''
     company_logo: org-x
-    location: Guangzhou/Chengdu
+    location: Chengdu/Guangzhou
     date_start: '2016-02-01'
     date_end: '2021-12-31'
     description: Teaching and research
