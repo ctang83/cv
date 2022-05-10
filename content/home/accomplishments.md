@@ -48,6 +48,14 @@ item:
   title: Physician Supply with Prof. Hsieh (access required)
   url: https://bookdown.org/tang_chengxiang/nb_he/
 
+- date_start: "2022-05-07"
+  description: ""
+  organization: Bookdown Repo
+  organization_url: 
+  title: Keeping People out of Hospital (access required)
+  url: https://bookdown.org/tang_chengxiang/kpooh/
+
+
 
 design:
   columns: '2' 
