@@ -41,12 +41,12 @@ item:
   title: EPS_Johnson & Johnson Medical (access required)
   url: https://bookdown.org/tang_chengxiang/eps_jjm/
 
-- date_start: "2022-04-27"
-  description: ""
-  organization: Bookdown Repo
-  organization_url: 
-  title: Physician Supply with Prof. Hsieh (access required)
-  url: https://bookdown.org/tang_chengxiang/nb_he/
+- #date_start: "2022-04-27"
+  #description: ""
+  #organization: Bookdown Repo
+  #organization_url: 
+  #title: Physician Supply with Prof. Hsieh (access required)
+  #url: https://bookdown.org/tang_chengxiang/nb_he/
 
 - date_start: "2022-05-07"
   description: ""
