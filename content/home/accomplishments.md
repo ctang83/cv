@@ -25,7 +25,7 @@ item:
   organization: Github Repo
   organization_url: 
   title: Chengxiang's Notebook - recording my learning stuff
-  url: https://ctang83.github.io/NB_tang/
+  url: https://bookdown.org/tang_chengxiang/tang/
   
 - date_start: "2022-01-01"
   description: ""
