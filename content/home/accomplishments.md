@@ -25,14 +25,14 @@ item:
   organization: Github Repo
   organization_url: 
   title: Chengxiang's Notebook - recording my learning stuff
-  url: https://bookdown.org/tang_chengxiang/tang/
+  url: https://ctang83.github.io/NB_tang/
   
-- date_start: "2022-01-01"
-  description: ""
-  organization: Github Repo
-  organization_url: 
-  title: 悉悉尼尼爱大海 - Jonny and Amy's favorites
-  url: https://ctang83.github.io/figjonny/notes-2022.html
+#- date_start: "2022-01-01"
+  #description: ""
+  #organization: Github Repo
+  #organization_url: 
+  #title: 悉悉尼尼爱大海 - Jonny and Amy's favorites
+  #url: https://ctang83.github.io/figjonny/notes-2022.html
 
 - date_start: "2022-04-01"
   description: ""
@@ -41,7 +41,7 @@ item:
   title: EPS_Johnson & Johnson Medical (access required)
   url: https://bookdown.org/tang_chengxiang/eps_jjm/
 
-- #date_start: "2022-04-27"
+#- date_start: "2022-04-27"
   #description: ""
   #organization: Bookdown Repo
   #organization_url: 
