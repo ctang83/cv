@@ -24,7 +24,7 @@ item:
   description: ""
   organization: Github Repo
   organization_url: 
-  title: Chengxiang's Notebook - recording my learning stuff
+  title: Chengxiang's Notebook (Github base)
   url: https://ctang83.github.io/NB_tang/
   
 #- date_start: "2022-01-01"
@@ -38,14 +38,14 @@ item:
   description: ""
   organization: Bookdown Repo
   organization_url: 
-  title: EPS_Johnson & Johnson Medical (access required)
+  title: EPS_Johnson & Johnson Medical (bookdown access required)
   url: https://bookdown.org/tang_chengxiang/eps_jjm/
 
 - date_start: "2022-04-27"
   description: ""
   organization: Bookdown Repo
   organization_url: 
-  title: Keeping People out of Hospital (access required)
+  title: Keeping People out of Hospital (bookdown access required)
   url: https://bookdown.org/tang_chengxiang/kpoh/
 
 
