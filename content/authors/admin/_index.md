@@ -76,7 +76,7 @@ email: ""
 highlight_name: true
 ---
 
-Chengxiang is a research fellow at Macquarie University. His interdisciplinary research interests include health workforce, health system, and health economics. He has broad research experience and skills in health reform, medical education, discrete choice experiments, network science, and big data analysis. 
+Chengxiang is a research fellow at Macquarie University. His interdisciplinary research interests include health workforce, health system, and health economics. He has broad research experience and skills in health reform, medical education, discrete choice experiments, network science, and big data analysis. He is also interested in gifted child education because his son has gifts in geography and mathematics. 
 
 He has a research track record in multiple peer-reviewed journals, including *Health Systems & Reform, Health Economics, Health Policy and Planning, American Journal of Public Health, Human Resources for Health, Future Generation Computer Systems, Scientific Reports, Journal of Transport & Health, and Physica A*. He has also served as an Associate Editor for *BMC Medical Education* since 2019. 
 
