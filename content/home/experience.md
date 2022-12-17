@@ -32,7 +32,7 @@ experience:
     description: |2-
         Responsibilities include: Analysing, Modelling, Deploying
         
-  - title: Research fellow
+  - title: Adjunct Research fellow
     company: Peking University
     company_url: ''
     company_logo: org-x

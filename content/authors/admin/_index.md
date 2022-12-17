@@ -78,7 +78,7 @@ highlight_name: true
 
 Chengxiang is a research fellow at Macquarie University. His interdisciplinary research interests include health workforce, health system, and health economics. He has broad research experience and skills in health reform, medical education, discrete choice experiments, network science, and big data analysis. He is also interested in gifted child education because his son has gifts in geography and mathematics. 
 
-He has a research track record in multiple peer-reviewed journals, including *Health Systems & Reform, Health Economics, Health Policy and Planning, American Journal of Public Health, Human Resources for Health, Future Generation Computer Systems, Scientific Reports, Journal of Transport & Health, and Physica A*. He has also served as an Associate Editor for *BMC Medical Education* since 2019. 
+He has a research track record in multiple peer-reviewed journals, including *Health Systems & Reform, Health Economics, Health Policy and Planning, American Journal of Public Health, Human Resources for Health, Future Generation Computer Systems, Scientific Reports, Journal of Transport & Health, Physica A, and 经济学(季刊)*. He has also served as an Associate Editor for *BMC Medical Education* since 2019. 
 
 程翔喜欢教育和研究, 对医学教育和超常儿童教育有兴趣, 对卫生系统和卫生经济研究有兴趣.
 
